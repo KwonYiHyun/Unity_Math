@@ -221,7 +221,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  angle: 90
+  angle: 45
 --- !u!50 &253454231
 Rigidbody2D:
   serializedVersion: 4
